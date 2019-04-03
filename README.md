@@ -1,4 +1,4 @@
-# UFT_Load_QCP_files-into-ALM
+# uft-load-qcp-files-into-alm
 
 Thi test was written with Web and WPF add-ins loaded, just because this is my go to add-ins (RSercely). 
 <br>
