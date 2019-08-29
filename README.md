@@ -1,5 +1,4 @@
-# Script Name
-uft-gui-alm-load-qcp-files-into-alm
+# uft-gui-alm-load-qcp-files-into-alm
 
 # Description
 This utility script was written to enable TE to easily load multiple .qcp files into ALM from the administration web page
